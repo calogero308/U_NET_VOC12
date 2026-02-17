@@ -27,3 +27,15 @@ Features:
 Note: Dataset VOC12 and large model checkpoints (>100MB) are not included. See instructions below to download or link externally. 
 
 Model trained at epoch 50: https://www.dropbox.com/scl/fo/hc9uzb34gye8j76kgvo12/AMwYjQlW8PgqLb0dZEX7AdQ?rlkey=jejhh52syswsy4izsyakafge3&st=ro57wj0u&dl=0
+
+
+Create a virtual environment (optional but recommended):
+  -python -m venv venv
+  
+  -source venv/bin/activate  # Linux/macOS
+  
+  -venv\Scripts\activate     # Windows
+
+Install dependencies:
+
+  -pip install -r requirements.txt

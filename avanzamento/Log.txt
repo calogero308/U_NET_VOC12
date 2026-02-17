@@ -1,0 +1,160 @@
+Resoconti di tutte le loss per ogni epoca
+__________________________________________________________________________
+                                                                            
+Epoca 1     Train Loss:         1.9402          CEL: 1.6718     DL: 0.5369
+            Validation Loss:    1.5158          CEL: 1.2770     DL: 0.4775
+
+Epoca 2     Train Loss:         1.7221          CEL: 1.4849     DL: 0.4744
+            Validation Loss:    1.4411          CEL: 1.2330     DL: 0.4163           
+
+Epoca 3     Train Loss:         1.6975          CEL: 1.4639     DL: 0.4671
+            Validation Loss:    1.4416          CEL: 1.2347     DL: 0.4137
+
+Epoca 4     Train Loss:         1.7083          CEL: 1.4728     DL: 0.4711
+            Validation Loss:    1.4257          CEL: 1.2218     DL: 0.4077           
+
+Epoca 5     Train Loss:         1.6836          CEL: 1.4511     DL: 0.4650
+            Validation Loss:    1.4185          CEL: 1.2303     DL: 0.3763
+
+Epoca 6     Train Loss:         1.6879          CEL: 1.4553     DL: 0.4653
+            Validation Loss:    1.4238          CEL: 1.2137     DL: 0.4201           
+
+Epoca 7     Train Loss:         1.6690          CEL: 1.4387     DL: 0.4606
+            Validation Loss:    1.4103          CEL: 1.2153     DL: 0.3900 
+
+Epoca 8     Train Loss:         1.6752          CEL: 1.4444     DL: 0.4617
+            Validation Loss:    1.4134          CEL: 1.2022     DL: 0.4225           
+
+Epoca 9     Train Loss:         1.6739          CEL: 1.4420     DL: 0.4638
+            Validation Loss:    1.3967          CEL: 1.1989     DL: 0.3956
+
+Epoca 10    Train Loss:         1.6542          CEL: 1.4248     DL: 0.4588
+            Validation Loss:    1.4250          CEL: 1.2025     DL: 0.4451           
+__________________________________________________________________________
+
+Epoca 11    Train Loss:         1.6458          CEL: 1.4164     DL: 0.4589
+            Validation Loss:    1.3813          CEL: 1.1781     DL: 0.4065
+
+Epoca 12    Train Loss:         1.6208          CEL: 1.3945     DL: 0.4526
+            Validation Loss:    1.3758          CEL: 1.1748     DL: 0.4021
+
+Epoca 13    Train Loss:         1.6232          CEL: 1.3960     DL: 0.4544
+            Validation Loss:    1.3702          CEL: 1.1859     DL: 0.3687
+
+Epoca 14    Train Loss:         1.5965          CEL: 1.3725     DL: 0.4480
+            Validation Loss:    1.3989          CEL: 1.1772     DL: 0.4435
+
+Epoca 15    Train Loss:         1.6010          CEL: 1.3749     DL: 0.4522
+            Validation Loss:    1.3327          CEL: 1.1363     DL: 0.3928
+
+Epoca 16    Train Loss:         1.5614          CEL: 1.3386     DL: 0.4455
+            Validation Loss:    1.3258          CEL: 1.1388     DL: 0.3740
+
+Epoca 17    Train Loss:         1.5388          CEL: 1.3179     DL: 0.4419
+            Validation Loss:    1.3040          CEL: 1.1104     DL: 0.3871
+
+Epoca 18    Train Loss:         1.5190          CEL: 1.2994     DL: 0.4393
+            Validation Loss:    1.3458          CEL: 1.1219     DL: 0.4478
+
+Epoca 19    Train Loss:         1.4923          CEL: 1.2753     DL: 0.4341
+            Validation Loss:    1.2900          CEL: 1.1137     DL: 0.3525
+
+Epoca 20    Train Loss:         1.4831          CEL: 1.2658     DL: 0.4347
+            Validation Loss:    1.3266          CEL: 1.1353     DL: 0.3828
+__________________________________________________________________________
+
+Epoca 21    Train Loss:         1.4668          CEL: 1.2512     DL: 0.4310
+            Validation Loss:    1.2419          CEL: 1.0481     DL: 0.3876
+
+Epoca 22    Train Loss:         1.4490          CEL: 1.2353     DL: 0.4274
+            Validation Loss:    1.2401          CEL: 1.0616     DL: 0.3570
+
+Epoca 23    Train Loss:         1.4280          CEL: 1.2161     DL: 0.4239
+            Validation Loss:    1.2349          CEL: 1.0634     DL: 0.3430
+
+Epoca 24    Train Loss:         1.4160          CEL: 1.2056     DL: 0.4208
+            Validation Loss:    1.2838          CEL: 1.0929     DL: 0.3819
+
+Epoca 25    Train Loss:         1.4115          CEL: 1.2005     DL: 0.4219
+            Validation Loss:    1.2092          CEL: 1.0333     DL: 0.3517
+
+Epoca 26    Train Loss:         1.3929          CEL: 1.1843     DL: 0.4172
+            Validation Loss:    1.2795          CEL: 1.0675     DL: 0.4242
+
+Epoca 27    Train Loss:         1.3716          CEL: 1.1648     DL: 0.4135
+            Validation Loss:    1.1883          CEL: 1.0046     DL: 0.3673
+
+Epoca 28    Train Loss:         1.3510          CEL: 1.1474     DL: 0.4071
+            Validation Loss:    1.2411          CEL: 1.0446     DL: 0.3930
+
+Epoca 29    Train Loss:         1.3552          CEL: 1.1500     DL: 0.4103
+            Validation Loss:    1.1951          CEL: 0.9985     DL: 0.3931
+
+Epoca 30    Train Loss:         1.3225          CEL: 1.1213     DL: 0.4025
+            Validation Loss:    1.1622          CEL: 0.9906     DL: 0.3431
+
+CheckPoint salvato in modo da avere un punto di partenza e non dover allenare
+ogni volta il modello.
+__________________________________________________________________________
+
+Epoca 31    Train Loss:         1.3112          CEL: 1.1112     DL: 0.3999
+            Validation Loss:    1.1437          CEL: 0.9769     DL: 0.3336
+
+Epoca 32    Train Loss:         1.2972          CEL: 1.0990     DL: 0.3963
+            Validation Loss:    1.1748          CEL: 0.9796     DL: 0.3905
+
+Epoca 33    Train Loss:         1.2890          CEL: 1.0916     DL: 0.3948
+            Validation Loss:    1.1741          CEL: 0.9864     DL: 0.3754
+
+Epoca 34    Train Loss:         1.2794          CEL: 1.0830     DL: 0.3928
+            Validation Loss:    1.1465          CEL: 0.9697     DL: 0.3537
+
+Epoca 35    Train Loss:         1.2542          CEL: 1.0609     DL: 0.3866
+            Validation Loss:    1.1550          CEL: 0.9743     DL: 0.3613
+
+Epoca 36    Train Loss:         1.2481          CEL: 1.0559     DL: 0.3843
+            Validation Loss:    1.0894          CEL: 0.9262     DL: 0.3264
+
+Epoca 37    Train Loss:         1.2442          CEL: 1.0522     DL: 0.3840
+            Validation Loss:    1.1320          CEL: 0.9662     DL: 0.3316
+
+Epoca 38    Train Loss:         1.2412          CEL: 1.0500     DL: 0.3823
+            Validation Loss:    1.1582          CEL: 1.1219     DL: 0.3882
+
+Epoca 39    Train Loss:         1.2192          CEL: 1.0298     DL: 0.3789
+            Validation Loss:    1.0974          CEL: 0.9286     DL: 0.3375
+
+Epoca 40    Train Loss:         1.1988          CEL: 1.0125     DL: 0.3726
+            Validation Loss:    1.0736          CEL: 0.9057     DL: 0.3357
+__________________________________________________________________________
+
+Epoca 41    Train Loss:         1.1747          CEL: 0.9911     DL: 0.3672
+            Validation Loss:    1.0706          CEL: 0.9093     DL: 0.3227
+
+Epoca 42    Train Loss:         1.1803          CEL: 0.9961     DL: 0.3684
+            Validation Loss:    1.1111          CEL: 0.9236     DL: 0.3752
+
+Epoca 43    Train Loss:         1.1553          CEL: 0.9735     DL: 0.3636
+            Validation Loss:    1.0568          CEL: 0.8958     DL: 0.3220
+
+Epoca 44    Train Loss:         1.1251          CEL: 0.9475     DL: 0.3551
+            Validation Loss:    1.0596          CEL: 0.8976     DL: 0.3240
+
+Epoca 45    Train Loss:         1.1357          CEL: 0.9568     DL: 0.3578
+            Validation Loss:    1.0379          CEL: 0.8775     DL: 0.3209
+
+Epoca 46    Train Loss:         1.1167          CEL: 0.9404     DL: 0.3525
+            Validation Loss:    1.0590          CEL: 0.8991     DL: 0.3198
+
+Epoca 47    Train Loss:         1.1083          CEL: 0.9329     DL: 0.3507
+            Validation Loss:    1.0660          CEL: 0.8927     DL: 0.3467
+
+Epoca 48    Train Loss:         1.0856          CEL: 0.9131     DL: 0.3450
+            Validation Loss:    1.0564          CEL: 0.8886     DL: 0.3357
+
+Epoca 49    Train Loss:         1.0766          CEL: 0.9056     DL: 0.3420
+            Validation Loss:    1.1141          CEL: 0.9394     DL: 0.3493
+
+Epoca 50    Train Loss:         1.0704          CEL: 0.8992     DL: 0.3423
+            Validation Loss:    1.0555          CEL: 0.9070     DL: 0.2969
+__________________________________________________________________________

@@ -20,7 +20,7 @@ Features:
   
   -Prediction script for single images
   
-  -Checkpoints saved at multiple stages (e.g., 40, 45, 50, 55 epochs)
+  -Checkpoints saved at multiple stages (e.g., 40, 45, 50 epochs) "I only loaded the 50 epochs
   
   -Interactive main script to choose between training, evaluation, and prediction
 
